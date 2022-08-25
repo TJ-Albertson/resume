@@ -34,35 +34,3 @@ I have also gained a fair bit of knowledge regarding computer networks and netwo
 
 I am 21 years old. I have spent most of my life in Southeast Missouri. I have been interested in computers and programming for a while. When I was younger I liked to make games and build computers for my friends. Some of my other hobbies/skills include soccer, snowboarding, and playing the flute. I really like watching movies and thats what I'm probably doing in my free time if I'm not playing video games.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TJ-Albertson/TJ-Albertson.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
