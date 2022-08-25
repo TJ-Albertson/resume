@@ -2,11 +2,11 @@
 ###### Javascript * React * CSS * Bootstrap * HTML * Express * Node.js * MongoDB * REST * Auth0 * Git * Github * Docker * Linux * Kubernetes
 
 ### CloudBox
-CloudBox is an app I created to host and share files for my friends and family. It was created using the MERN stack (MongoDB, Express, React, Node) and is being hosted by myself in a Kubernetes cluster. It mainly uses Bootstrap for the UI and Auth0 for user authentication and authorization. The express server acts like a REST API to connect React to MongoDB and is also used to store the files.
+CloudBox is an app I created to host and share files for my friends and family. It was created using the MERN stack (MongoDB, Express, React, Node) and is being hosted by myself in a Kubernetes cluster. It mainly uses Bootstrap for the UI and Auth0 for user authentication and authorization. The express server acts like a REST API to connect React to MongoDB and is also used to store the files.  
 
-[Dated logs](url)
-[Fronted Repository](url)
-[Backend Repository](url)
+[Dated logs](url)  
+[Fronted Repository](url)  
+[Backend Repository](url)  
 
 ### My current job
 
@@ -15,10 +15,6 @@ I am currently working full-time at [CPU inc.](url) as tech person where I assis
 ### What I want to do
 
 I am interested in any kind of development. Although it is evident that I am most knowledgeable in Full Stack web development
-
-### About Me  
-
-I am 21 years old. I have spent most of my life in Southeast Missouri. I have been interested in computers and programming since I was young. 
 
 ### Other technical knowledge  
 
@@ -33,6 +29,10 @@ I have also gained a fair bit of knowledge regarding computer networks and netwo
 - Azure Active Directory and domains
 - Servers, reverse proxy's, load balancers
 - NAS and SAN file storage + backup
+
+### About Me  
+
+I am 21 years old. I have spent most of my life in Southeast Missouri. I have been interested in computers and programming since I was young. Some of my other hobbies/skills include soccer, snowboarding, and playing the flute. 
 
 
 ### Markdown
