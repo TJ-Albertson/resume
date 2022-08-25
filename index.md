@@ -14,7 +14,7 @@ I am currently working full-time at [CPU inc.](url) as tech person where I assis
 
 ### What I want to do
 
-I am interested in any kind of development. Although it is evident that I've steered towards Full Stack web development.
+I am interested in any kind of development, however I feel I am most prepared for web development.
 
 ### Other technical knowledge  
 
