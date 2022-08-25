@@ -32,7 +32,7 @@ I have also gained a fair bit of knowledge regarding computer networks and netwo
 
 ### About Me  
 
-I am 21 years old. I have spent most of my life in Southeast Missouri. I have been interested in computers and programming for a while. When I was younger I liked to make games and build computers for my friends. Some of my other hobbies/skills include soccer, snowboarding, and playing the flute. I really like watching movies and thats what I'm probably doing in my free time if I'm not playing league of legends.
+I am 21 years old. I have spent most of my life in Southeast Missouri. I have been interested in computers and programming for a while. When I was younger I liked to make games and build computers for my friends. Some of my other hobbies/skills include soccer, snowboarding, and playing the flute. I really like watching movies and thats what I'm probably doing in my free time if I'm not playing video games.
 
 
 ### Markdown
