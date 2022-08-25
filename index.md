@@ -10,8 +10,30 @@ CloudBox is an app I created to host and share files for my friends and family. 
 
 ### My current job
 
+I am currently working full-time at [CPU inc.](url) as tech person where I assist in the setup and support of servers and networking equipment for clients. These servers act as File Servers, Domain Controllers, and Data backup servers. The networking equipment usually consist of IP based phone systems, Switches, and Routers which are set up with VLANs and VPNs based on the clients needs. when I am not assissting in the setup of servers and network equipment I am resolving support tickets for customers. We service many clients in and around southeast misouri, many of which have very large IT infrastructures.
 
 ### What I want to do
+
+I am interested in any kind of development. Although it is evident that I am most knowledgeable in Full Stack web development
+
+### About Me  
+
+I am 21 years old. I have spent most of my life in Southeast Missouri. I have been interested in computers and programming since I was young. 
+
+### Other technical knowledge  
+
+I have a fair bit of knowledge about Java from personal projects I've done. Also C and C# from college courses.
+I know a bit about computer components from building too many computers to count.
+I have also gained a fair bit of knowledge regarding computer networks and networking equipment due to my current job. Topics that include:  
+- IP Address and ports
+- Routers and switches
+- VPN's
+- VLAN's
+- Firewalls
+- Azure Active Directory and domains
+- Servers, reverse proxy's, load balancers
+- NAS and SAN file storage + backup
+
 
 ### Markdown
 
