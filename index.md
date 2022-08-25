@@ -10,7 +10,7 @@ CloudBox is an app I created to host and share files for my friends and family. 
 
 ### My current job
 
-I am currently working full-time at [CPU inc.](url) as tech person where I assist in the setup and support of servers and networking equipment for clients. These servers act as File Servers, Domain Controllers, and Data backup servers. The networking equipment usually consist of IP based phone systems, Switches, and Routers which are set up with VLANs and VPNs based on the clients needs. when I am not assissting in the setup of servers and network equipment I am resolving support tickets for customers. We service many clients in and around southeast misouri, many of which have very large IT infrastructures.
+I am currently working full-time at [CPU inc.](https://www.c-p-u.com/) as tech person where I assist in the setup and support of servers and networking equipment for clients. These servers act as File Servers, Domain Controllers, and Data backup servers. The networking equipment usually consist of IP based phone systems, Switches, and Routers which are set up with VLANs and VPNs based on the clients needs. when I am not assissting in the setup of servers and network equipment I am resolving support tickets for customers. We service many clients in and around southeast misouri, many of which have very large IT infrastructures.
 
 ### What I want to do
 
