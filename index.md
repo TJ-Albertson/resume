@@ -18,6 +18,7 @@ I am interested in any kind of development, however I feel I am most prepared fo
 
 ### Other technical knowledge  
 
+- [My Github](https://github.com/TJ-Albertson)
 I have a fair bit of knowledge about Java from personal projects I've done. Also C and C# from college courses.  
 I know a bit about computer components from building too many computers to count.  
 I have also gained a fair bit of knowledge regarding computer networks and networking equipment due to my current job. Topics that include:  
