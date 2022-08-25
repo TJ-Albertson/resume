@@ -1,8 +1,17 @@
 ### TJ Albertson
 ## Javascript * React * CSS * Bootstrap * HTML * Express * Node.js * MongoDB * REST * Auth0 * Git * Github * Docker * Linux * Kubernetes
 
-### Markdown
-Cloudbox is an app I created to host and share files for my friends and family. It was created using the MERN stack (MongoDB, Express, React, Node) and is being hosted by myself in a Kubernetes cluster. It mainly uses Bootstrap for the UI and Auth0 for user authentication and authorization. The express server acts like a REST API to connect React to MongoDB and is also used to store the files.
+### CloudBox
+CloudBox is an app I created to host and share files for my friends and family. It was created using the MERN stack (MongoDB, Express, React, Node) and is being hosted by myself in a Kubernetes cluster. It mainly uses Bootstrap for the UI and Auth0 for user authentication and authorization. The express server acts like a REST API to connect React to MongoDB and is also used to store the files.
+
+[Dated logs](url)
+[Fronted Repository](url)
+[Backend Repository](url)
+
+### My current job
+
+
+### What I want to do
 
 ### Markdown
 
