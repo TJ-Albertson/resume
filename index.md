@@ -1,9 +1,8 @@
-### Weasdfas
-## Javascript * React * CSS * Bootstrap * HTML * Express * Node.js * MongoDB * Auth0 * Git * Github * Docker * Linux * Kubernetes
+### TJ Albertson
+## Javascript * React * CSS * Bootstrap * HTML * Express * Node.js * MongoDB * REST * Auth0 * Git * Github * Docker * Linux * Kubernetes
 
-You can use the [editor on GitHub](https://github.com/TJ-Albertson/TJ-Albertson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Markdown
+Cloudbox is an app I created to host and share files for my friends and family. It was created using the MERN stack (MongoDB, Express, React, Node) and is being hosted by myself in a Kubernetes cluster. It mainly uses Bootstrap for the UI and Auth0 for user authentication and authorization. The express server acts like a REST API to connect React to MongoDB and is also used to store the files.
 
 ### Markdown
 
