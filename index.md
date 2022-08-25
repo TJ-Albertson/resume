@@ -1,5 +1,5 @@
 ### Weasdfas
-# asdfasdf;lkdf
+## Javascript * React * CSS * Bootstrap * HTML * Express * Node.js * MongoDB * Auth0 * Git * Github * Docker * Linux * Kubernetes
 
 You can use the [editor on GitHub](https://github.com/TJ-Albertson/TJ-Albertson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
